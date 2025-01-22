@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Rasyon Heneyah 😎👍
+## Bem-vindo(a) ao perfil do Rasyon Heneyah 😎
 
  <div>
    <a href="https://github.com/Rasyonheneyah">
