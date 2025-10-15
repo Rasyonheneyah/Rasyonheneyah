@@ -1,5 +1,10 @@
-## Bem-vindo(a) ao perfil do Rasyon Heneyah 😎
+# 👋 Olá! Eu sou o Misael!
+## Rasyon é apenas um pseudônimo!
 
+Sou desenvolvedor apaixonado por tecnologia, filosofia e teologia.  
+Atualmente, estudo e desenvolvo projetos em **React**, **Node.js** e **Python**.
+
+<!--
  <div>
    <a href="https://github.com/Rasyonheneyah">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rasyonheneyah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -16,3 +21,4 @@
 </div>
  
 <br>
+-->
