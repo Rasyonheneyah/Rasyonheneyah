@@ -29,6 +29,7 @@ Cursando **Sistemas de Informação**, estudando **Python, React e TypeScript**.
 
 ## 🌟 Projetos em destaque
 - [🗄️ MyCrud – Classe Python genérica para CRUD com SQLite](https://github.com/rasyonheneyah/mycrud)
+- [⚙️ Social Media](https://rasyonheneyah.github.io/social-media/)
 - [🧩 Meus Escritos](https://github.com/rasyonheneyah/)
 - [📖 Site para você adicionar livros lidos](https://github.com/rasyonheneyah/lilivros)
 - [⚙️ ](https://github.com/rasyonheneyah)
