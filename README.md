@@ -28,6 +28,7 @@ Cursando **Sistemas de Informação**, estudando **Python, React e TypeScript**.
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rasyonheneyah&show_icons=true&theme=tokyonight)
 
 ## 🌟 Projetos em destaque
+- [🗄️ MyCrud – Classe Python genérica para CRUD com SQLite](https://github.com/rasyonheneyah/mycrud)
 - [🧩 Meus Escritos](https://github.com/rasyonheneyah/)
 - [📖 Site para você adicionar livros lidos](https://github.com/rasyonheneyah/lilivros)
 - [⚙️ ](https://github.com/rasyonheneyah)
