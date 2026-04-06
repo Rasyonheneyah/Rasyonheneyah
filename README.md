@@ -2,14 +2,15 @@
 ## Rasyon é apenas um pseudônimo!
 
 Sou desenvolvedor web apaixonado por front-end e back-end.  
-Cursando **Sistemas de Informação**, estudando **Python, Django e React**.
+Cursando **Sistemas de Informação**, estudando **Python, Django**.
 
 
 
 ## 🚀 O que estou fazendo atualmente
-- 🌱 Estudando React + Vite
+- 🌱 Estudando Django
 - 🐍 Aprendendo **Python** na faculdade  
 - ⚙️ Aprofundando o uso de **ferramentas de desenvolvimento** como Git, GitHub e workflows de versionamento
+- ⚙️ Seguindo meu mapa da ignorância para coisas que devo aprender
 
 ## 🧰 Tecnologias que uso
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
