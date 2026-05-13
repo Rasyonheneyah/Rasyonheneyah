@@ -1,5 +1,6 @@
 # 👋 Olá! Eu sou o Misael!
-## Rasyon é apenas um pseudônimo!
+
+Rasyon é apenas um pseudônimo!
 
 Sou desenvolvedor web apaixonado por front-end e back-end.  
 Cursando **Sistemas de Informação**, estudando **Python, Django**.
