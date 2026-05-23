@@ -2,8 +2,7 @@
 
 Rasyon é apenas um pseudônimo!
 
-Sou desenvolvedor web apaixonado por front-end e back-end.  
-Cursando **Sistemas de Informação**, estudando **Python, Django**.
+Desenvolvedor web cursando **Sistemas de Informação**, estudando **Python, Django**, **Estrutura de Dados** e etc.
 
 
 
@@ -30,10 +29,10 @@ Cursando **Sistemas de Informação**, estudando **Python, Django**.
 
 ## 🌟 Projetos em destaque
 - [🗄️ MyCrud – Classe Python genérica para CRUD com SQLite](https://github.com/Rasyonheneyah/python/tree/master/0-desafios/Crud)
-- [🧩 Apologética](https://github.com/rasyonheneyah/apologetica)
 - [⚙️ Social Media](https://rasyonheneyah.github.io/HTML-CSS/0-Projetos/social-media/index.html)
 - [⚙️ Login Page](https://rasyonheneyah.github.io/HTML-CSS/0-Projetos/login-page/index.html)
 - [⚙️ ](https://github.com/rasyonheneyah)
+- [🧩 Apologética](https://github.com/rasyonheneyah/apologetica)
 
 
 
