@@ -25,7 +25,7 @@ Desenvolvedor web cursando **Sistemas de Informação**, estudando **Python, Dja
 
 
 ## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rasyonheneyah&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Rasyonheneyah&show_icons=true&theme=tokyonight)
 
 ## 🌟 Projetos em destaque
 - [🗄️ MyCrud – Classe Python genérica para CRUD com SQLite](https://github.com/Rasyonheneyah/python/tree/master/0-desafios/Crud)
